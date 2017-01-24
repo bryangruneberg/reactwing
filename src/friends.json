@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Jed",
+    "surname": "Bartlet",
+    "isOnline": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/5b/Josiah_Bartlett_with_chair.jpg"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Leo_McGarry.jpg/250px-Leo_McGarry.jpg",
+    "name":"Leo",
+    "surname":"McGarry",
+    "isOnline": false
+  },
+  {
+    "name": "CJ",
+    "surname": "Cregg",
+    "imageUrl": "https://pbs.twimg.com/profile_images/620737319960576000/K7YWcSzZ.jpg",
+    "isOnline":true
+  },
+  {
+    "name": "Toby",
+    "surname": "Ziegler",
+    "imageUrl": "http://static.comicvine.com/uploads/original/11126/111260239/4878515-3847541648-latest",
+    "isOnline":true
+  }
+]
