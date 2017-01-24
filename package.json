@@ -1,5 +1,6 @@
 {
   "name": "react-academy-labs-starter",
+  "homepage": "/reactwing/build/",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
