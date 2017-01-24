@@ -31,6 +31,7 @@ class App extends Component {
 
     return (
       <div>
+        <h1>React Wing</h1>
         <Toggle showActive={showActive} toggleActive={this.toggleActive} />
         <hr />
         <TextFilter value={filterText} onChange={this.processFilterText} />
