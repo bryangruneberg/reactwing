@@ -7,7 +7,7 @@ const Toggle = ({toggleActive, showActive}) => {
     </button>
     <div>
       Showing: <span>
-        { showActive ? 'Alive' : 'Dead' }
+        { showActive ? 'Online' : 'Offline' }
         </span>
     </div>
   </div>)
